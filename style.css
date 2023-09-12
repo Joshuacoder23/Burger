@@ -1,0 +1,315 @@
+{
+    href="https://www.dafontfree.net/embed/c3VwZXJiYWJvbGQtcmVndWxhciZkYXRhLzUxL3MvMjM2OTQvU3VwZXJiYUJvbGQub3Rm" rel="stylesheet" type="text/css"/
+}
+@font-face {
+    font-family: myfonts;
+    src: url(font.ttf);
+}
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.sec-1 {
+    width: 1440px;
+    height: 824px;
+    background-image: url(Rectangle.png);
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 55px;
+    padding-bottom: 0%;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    width: 338px;
+}
+
+.nav-right pre {
+    color: #3d2514;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+ul  {
+    display: flex;
+    float: right;
+    list-style:  none;
+    margin-right: 1%;
+    margin-top: 26px;
+}
+ul li {
+    padding-right: 56px;
+    color: #3d2514;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.left div  {
+    border: #3d2514 dashed 2px;
+    width: 403px;
+    height: 48px;
+    margin-top: 174px;
+    margin-left: 60px;
+    padding-top: 12px;
+    padding-left: 5px;
+}
+.main {
+    display: flex;
+}
+.main h5 {
+    color: #3d2514;
+}
+.main h1 {
+    font-size: 6rem;
+    color: #3d2514;
+    margin-left: 60px;
+    font-weight: bold;
+    font-family: myfonts;
+}
+.main h2 {
+    font-size: 4rem;
+    color: #3d2514;
+    margin-left: 60px;
+    font-family: myfonts;
+    font-weight: 300;
+    outline-color: white;
+}
+.main img {
+    margin-left: 170px;
+    margin-top: 71px;
+}
+/* Section 2 */
+.main2 {
+    display: flex;
+    color: white;
+    margin-top: 71px;
+    margin-left: 109px;
+}
+.left2 {
+    width: 594px;
+    height: 419px;
+    background-image: url(Burger.png);
+    padding-left: 20px;
+    padding-top: 29px;
+}
+.right2 {
+    margin-left: 44px;
+}
+.right2 div {
+    width: 592px;
+    height: 193px;
+    margin-bottom: 31px;
+    padding-left: 25px;
+    padding-top: 29px;
+    border-radius: 2px;
+}
+.main2 h2 {
+    margin-top: 10px;
+}
+.sec2 button{
+    background-color: #ffc045;
+    color: #3d2514;
+    width: 217px;
+    height: 48px;
+    font-family: myfonts;
+    border: none;
+    margin-left: 42%;
+}
+/* Section 3 */
+
+.sec3 h1 {
+    font-family: myfonts;
+    color: #3d2514;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 37px;
+}
+.sec3 p {
+    font-size: 16.667px;
+    color: rgb(61, 37, 20);
+    text-align: center;
+    margin-top: 32px;
+}
+
+.main3 {
+    display: flex;
+    margin-top: 62px;
+    text-align: center;
+    width: 33.3%;
+}
+.main3 div button{
+    background-color: #bf2222;
+    color: white;
+    width: 198px;
+    height: 57px;
+    border: none;
+    margin-top: 40px;
+    font-weight: 900;
+}
+.div3 {
+    margin-top: 36px;
+}
+
+/* Section 4 */
+
+.main4 {
+    display: flex;
+    width: 1300px;
+    height: 520px;
+    margin-top: 130px;
+    align-items: center ;
+    box-shadow: 18.656px 24.758px 43px 0px rgba(0, 0, 0, 0.17);
+    background-color: rgb(255, 255, 255);
+    left: 78px;
+    top: 2354px;
+    width: 1294px;
+    height: 492px;
+    z-index: 55;
+    margin-left: 6%;
+    background-color: rgb(255, 255, 255);
+}
+.left4 {
+    margin-left: 20px;
+}
+.left4 h4 {
+    color: #3d3d3d;
+    font-weight: 900;
+    font-size: 29px;
+    line-height: 1.571;      
+}
+.left4 h1 {
+    font-family: myfonts;
+    color: #3d2514;
+    width: 479px;
+    margin-bottom: 37px;
+    font-size: 41.667px;
+    line-height: 1.1;
+    margin-right: 84px;     
+}
+.left4 p {
+        font-size: 21px;
+        font-family: "Montserrat";
+        color: rgb(61, 61, 61);
+        line-height: 1.6;
+        text-align: left;
+        left: 133.927px;
+        top: 2558.833px;
+        width: 507px;
+        height: 149px;
+        z-index: 63;
+}
+/* Section 5 */
+.main5 {
+    display: flex;
+    color: #3d2514;
+    text-align: center;
+}
+.main5 img {
+    padding-top: 68px;
+}
+.main5 h1 {
+    font-size: 50px;
+    font-family: myfonts;
+}
+.main5 h4 {
+    font-size: 25px;
+    line-height: 1.571;  
+}
+.main5 div {
+    margin-left: 235px;
+    margin-top: 100px;
+}
+.bottle {
+    margin-left: 165px;
+    bottom: 180px;
+    height: 275px;
+}
+.d1 {
+    display: flex;
+}
+.form {
+    margin-left: 90px;
+    margin-top: 30px;
+    margin-right: 89px;
+}
+#name {
+    width: 380px;
+    height: 65px;
+    padding-left: 20px;
+    border: black 0.6px solid;
+}
+.form button {
+        border-radius: 5px;
+        background-color: rgb(191, 34, 34);
+        width: 380px;
+        height: 65px;
+        color: white;
+        font-weight: bold;
+}
+.plate {
+    padding-top: 40px;
+}
+/* Section 6 */
+
+footer {
+    width: 1440px;
+    height: 600px;
+}
+
+.main6 {
+    background-image: url(footer/background.png);
+    width: 1324px;
+    height: 520px;
+    margin: auto;
+    top: 30px;
+    position: relative;
+    color: white;
+    padding-left: 36px;
+}
+.main6 p {
+    font-size: 16.667px;
+}
+.flogo {
+    margin-top: 80px;
+}
+.main62 {
+    display: flex;
+    margin-top: 36px;
+}
+.main62 img {
+    width: 31px;
+    height: 35px;
+}
+.main62 div {
+    display: flex;
+    text-align: center;
+    font-size: 21px;
+}
+.right6 {
+    flex-direction: column;
+    margin-left: 335px;
+    justify-content: space-between;
+}
+.right6  div img {
+    margin-right: 30px;
+}
+.right6  div h4 {
+    margin-top: 5px;
+}
+.last {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 158px;
+}
+.last div {
+    margin-right: 32px;
+}
+.last img {
+    margin-right: 10px;
+}
+
